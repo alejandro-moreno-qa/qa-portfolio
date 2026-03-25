@@ -1,0 +1,12 @@
+{
+  "name": "cypress-healthcare",
+  "version": "1.0.0",
+  "description": "Automatización básica de flujos clínicos con Cypress sobre un sistema sanitario anonimizado.",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
