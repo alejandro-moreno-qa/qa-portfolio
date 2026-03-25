@@ -2,7 +2,7 @@
 
 ## 1. Objetivo
 
-Validar el correcto funcionamiento del módulo de gestión de antecedentes clínicos y medicamentos actuales dentro de un sistema de gestión sanitaria.
+Validar el correcto funcionamiento del módulo de gestión de antecedentes clínicos y medicamentos actuales dentro de un sistema de gestión hospitalaria.
 
 ---
 
