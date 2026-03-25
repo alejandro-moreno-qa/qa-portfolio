@@ -1,0 +1,10 @@
+{
+  "username": "usuario_demo",
+  "password": "clave_demo",
+  "healthcareUnit": "Unidad General",
+  "clinicalArea": "Consulta Externa",
+  "userRole": "Médico",
+  "serviceType": "Medicina General",
+  "patient": "paciente de prueba",
+  "appointmentTime": "8:00"
+}
